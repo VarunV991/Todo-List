@@ -6,20 +6,22 @@ A fully responsive and innovative todo list.
 # Directory Structure
 
 ```
-├── data
-├── models
-├── static 
-│   ├── fall.png
-│   ├── raise.png
-│   ├── style.css
-├── templates
-│   ├── index.html
-│   ├── result.html
+├── node_modules
+├── public
+│   ├── css
+│   │   ├── todonew.css
+│   ├── js
+│   │   ├──todonew.js
+│   │   ├──lib
+│   │   │   ├──jquery-3.4.1.min.js
+├── views
+│   ├── todonew.ejs
 ├── Procfile
 ├── README.md
-├── Stock Sentiment Analysis.ipynb
-├── app.py
-├── requirements.txt
+├── app.js
+├── package-lock.json
+├── package.json
+
 ```
 
 # Tools Used
